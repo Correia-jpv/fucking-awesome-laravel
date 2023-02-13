@@ -272,6 +272,7 @@ Inspired by <b><code>&nbsp;28181⭐</code></b> <b><code>&nbsp;&nbsp;5014🍴</co
 * <b><code>&nbsp;&nbsp;4042⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;596🍴</code></b> [Devilbox](https://github.com/cytopia/devilbox)) - A dockerized and general-purpose LAMP/MEAN stack for every PHP version
 * 🌎 [Vessel](vessel.shippingdocker.com) - Simple Docker development environments for Laravel
 * 🌎 [Lando](docs.lando.dev/config/laravel.html) - A local development environment tool built on Docker
+* 🌎 [Sail](https://laravel.com/docs/9.x/sail) Only requires Docker
 
 ## Application Hosting
 
