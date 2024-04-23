@@ -41,6 +41,7 @@ Inspired by <b><code>&nbsp;30347⭐</code></b> <b><code>&nbsp;&nbsp;5034🍴</co
 * [Packalyst](http://packalyst.com/)
 * 🌎 [Spatie](spatie.be/en/opensource/laravel)
 
+
 ## Popular Packages
 
 > This is a list of well-documented, tested packages that are frequently used in Laravel projects. If you're looking for an exhaustive list of PHP packages, then check out the Package Repositories mentioned above.
@@ -92,6 +93,7 @@ Inspired by <b><code>&nbsp;30347⭐</code></b> <b><code>&nbsp;&nbsp;5034🍴</co
 * <b><code>&nbsp;&nbsp;&nbsp;911⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;182🍴</code></b> [Adldap2 Laravel](https://github.com/Adldap2/Adldap2-Laravel)) - LDAP authentication and Active Directory management
 * <b><code>&nbsp;&nbsp;1007⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;44🍴</code></b> [Doorman](https://github.com/clarkeash/doorman)) - Limit access to your Laravel applications by using invite codes
 * <b><code>&nbsp;&nbsp;&nbsp;910⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;38🍴</code></b> [Laravel Heyman](https://github.com/imanghafoori1/laravel-heyman)) - Heyman continues where the above role-permission packages left off
+* <b><code>&nbsp;&nbsp;&nbsp;2676⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;282🍴</code></b> [Laravel Sanctum](https://github.com/laravel/sanctum)) - Provides a simple way to authenticate API requests in your Laravel applications
 
 ##### Utilities
 
