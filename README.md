@@ -468,6 +468,7 @@ Inspired by <b><code>&nbsp;32576⭐</code></b> <b><code>&nbsp;&nbsp;5137🍴</co
 * <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [PJ Blog](https://github.com/jcc/blog/))
 * <b><code>&nbsp;&nbsp;&nbsp;295⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;42🍴</code></b> [Laralum](https://github.com/Laralum/Laralum))
 * <b><code>&nbsp;&nbsp;3956⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;585🍴</code></b> [Twill](https://github.com/area17/twill))
+* <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [UnfoldCMS](https://github.com/hpakdaman/unfoldcms)) - Self-hosted CMS built on Laravel 12, React 19, shadcn/ui, and Tailwind v4, with REST API v1 (42 endpoints), HMAC-signed webhooks, and headless mode for Next.js/Astro/SvelteKit/Nuxt.
 
 ## Podcasts
 
